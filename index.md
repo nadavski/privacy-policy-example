@@ -1,17 +1,45 @@
-Privacy Policy for Security Analyzer
+**Privacy Policy for [Security Analyzer]**
 
-Effective date: 5 Feb, 2024
+Last updated: [5 Feb, 2024]
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.
+Welcome to [Security Analyzer]! We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy policy or our practices with regard to your personal information, please contact us.
 
-Information Collection And Use
+This privacy policy describes how we might use, manage, and protect your information when you use our application.
 
-We collect several different types of information for various purposes to provide and improve our Service to you.
+**Information We Collect**
 
-Types of Data Collected
-Personal Data
+Personal Information
+When you use our application, we may ask for your personal information, including but not limited to:
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+- Name
+- Email address
+- Usage data (how you use our application)
+- Usage Data
+We collect information on how the application is accessed and used. This usage data may include information such as your device's Internet Protocol address (e.g., IP address), browser type, browser version, our application pages that you visit, the time and date of your visit, the time spent on those pages, and other diagnostic data.
 
-Email address
-Cookies and Usage Data
+**How We Use Your Information**
+
+We use the information we collect in various ways, including to:
+
+- Provide, operate, and maintain our application
+- Improve, personalize, and expand our application
+- Understand and analyze how you use our application
+- Develop new products, services, features, and functionality
+- Sharing Your Information
+
+We may share your information with selected third parties, including:
+
+- Service providers who support our application (e.g., hosting, maintenance, analysis)
+- If required by law or to respond to legal processes
+- To protect our rights or the safety of our users and the public
+- Security of Your Information
+
+We prioritize the security of your information. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+**Changes to This Privacy Policy**
+
+We may update our privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page.
+
+**Contact Us**
+
+If you have any questions about this privacy policy, please contact us.
