@@ -2,7 +2,7 @@
 
 Last updated: [5 Feb, 2024]
 
-Welcome to [Security Analyzer]! We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy policy or our practices with regard to your personal information, please contact us.
+Welcome to Security Analyzer! We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy policy or our practices with regard to your personal information, please contact us.
 
 This privacy policy describes how we might use, manage, and protect your information when you use our application.
 
